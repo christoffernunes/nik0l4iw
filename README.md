@@ -1,9 +1,9 @@
-### Hi, I'm Christoffer Nunes 👋
+### Christoffer Nunes 👋
 
 
-- 🔭 I'm currently working as a PL Fullstack Developer, using React JS and C# with .NET
-- 🌱 I’m currently learning Python, DevOps and few more things
-
+- 🔭 Atualmente trabalho como Analista de Dados Pleno
+- 🌱 Já atuei por 4 anos como Desenvolvedor C#/NET CORE com React JS.
+  
 <div align="left">
   <a href="https://github.com/nik0l4iw">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nik0l4iw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
